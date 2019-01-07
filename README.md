@@ -2,7 +2,9 @@
 Python Protocols
 
 This is a collection of some Python Protocols to perform basic setup missions such as:
+- Python Basics
+- Built-in Mathematics
 - Input/Output
 - DateTime setup
-- Data Gathering and parsing
-- Database setup and Management
+- Data Gathering and Parsing
+- Databases setup and Management
