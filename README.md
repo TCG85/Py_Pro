@@ -5,6 +5,6 @@ This is a collection of some Python Protocols to perform basic setup missions su
 - Python Basics
 - Built-in Mathematics
 - Input/Output
-- DateTime setup
+- Date/Time setup
 - Data Gathering and Parsing
-- Databases setup and Management
+- Databases Setup and Management
